@@ -1,13 +1,14 @@
 import React from "react";
+import {Link} from "react-router-dom";
 
 function Navbar() {
   return (
     <div className="container">
       <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom " style={{backgroundColor: "white"}}>
         <div class="container">
-          <a class="navbar-brand" href="#">
+          <Link class="navbar-brand" to="#">
             <img src="media/images/logo.svg" alt="logo" style={{width:"25%"}}/>
-          </a>
+          </Link>
           <button
             class="navbar-toggler"
             type="button"
@@ -24,29 +25,29 @@ function Navbar() {
             <form class="d-flex" role="search">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">
+                <Link class="nav-link active" aria-current="page" to="/signup">
                   Signup
-                </a>
+                </Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" href="#">
+                <Link class="nav-link active" to="/about">
                   About
-                </a>
+                </Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" href="#">
+                <Link class="nav-link active" to="/product">
                   Product
-                </a>
+                </Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link avtive" href="#">
+                <Link class="nav-link avtive" to="/pricing">
                   Pricing
-                </a>
+                </Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" href="#">
+                <Link class="nav-link active" to="/support">
                   Support
-                </a>
+                </Link>
               </li>
               
             </ul>
