@@ -47,35 +47,23 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i> Your Stoxera Account
           </h4>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Online Account Opening
+            Login Credential
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Offline Account Opening
+            Account Modification and Segment Addition
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Company, Partnership and HUF Account
+            DP ID and bank details
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Opening
+            Your Profile
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            NRI Account Opening
-          </a>
-          <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Charges at Zerodha
-          </a>
-          <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Zerodha IDFC FIRST Bank 3-in-1 Account
-          </a>
-          <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Getting Started
+            Transfer and conversion of shares
           </a>
           <br />
         </div>
@@ -84,35 +72,39 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i> Your Zerodha Account
           </h4>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Online Account Opening
+            Margin/Leverage, Product and Order types
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Offline Account Opening
+            Kite web and mobile
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Company, Partnership and HUF Account
+            Trading FAQs
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Opening
+            Corporate Action
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            NRI Account Opening
+            Sentinel
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Charges at Zerodha
+            Kite API
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Zerodha IDFC FIRST Bank 3-in-1 Account
+            Pi and Other Platform
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Getting Started
+            Stock Reports+
+          </a>
+          <br />
+          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
+            GTT
           </a>
           <br />
         </div>
@@ -121,35 +113,19 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i> Funds
           </h4>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Online Account Opening
+            Adding Funds
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Offline Account Opening
+            Fund Withdrawal
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Company, Partnership and HUF Account
+            eMandates
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Opening
-          </a>
-          <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            NRI Account Opening
-          </a>
-          <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Charges at Zerodha
-          </a>
-          <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Zerodha IDFC FIRST Bank 3-in-1 Account
-          </a>
-          <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Getting Started
+            Adding Bank Accounts
           </a>
           <br />
         </div>
@@ -158,35 +134,27 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i> Console
           </h4>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Online Account Opening
+            Reports
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Offline Account Opening
+            Ledger
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Company, Partnership and HUF Account
+            Portfolio
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Opening
+            60 day challenge
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            NRI Account Opening
+            IPO
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Charges at Zerodha
-          </a>
-          <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Zerodha IDFC FIRST Bank 3-in-1 Account
-          </a>
-          <br />
-          <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Getting Started
+            Referral Program
           </a>
           <br />
         </div>
@@ -195,35 +163,35 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i> Coin
           </h4>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Online Account Opening
+            Understanding Mutual Funds
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Offline Account Opening
+            About Coin
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Company, Partnership and HUF Account
+            Buying and Selling through coin
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Opening
+            Starting an SIP
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            NRI Account Opening
+            Managing your portfolio
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Charges at Zerodha
+            Coin App
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Zerodha IDFC FIRST Bank 3-in-1 Account
+            Moving to Coin
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Getting Started
+            Government Securities
           </a>
           <br />
         </div>
