@@ -25,3 +25,9 @@ code {
   color: #007bff;
 
 }
+
+.partner-logo {
+  width: 140px;  /* or any fixed size */
+  height: auto;
+  object-fit: contain;
+}

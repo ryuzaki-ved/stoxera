@@ -11,28 +11,28 @@ function Universe() {
         </p>
 
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/smallcaseLogo.png" />
+          <img src="media/images/smallcaseLogo.png" className="partner-logo" />
           <p className="text-small text-muted">Thematic investment platform</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/smallcaseLogo.png" />
-          <p className="text-small text-muted">Thematic investment platform</p>
+          <img src="media/images/streakLogo.png" className="partner-logo"/>
+          <p className="text-small text-muted">Algo & strategy platform</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/smallcaseLogo.png" />
-          <p className="text-small text-muted">Thematic investment platform</p>
+          <img src="media/images/sensibullLogo.svg" className="partner-logo"/>
+          <p className="text-small text-muted">Options trading platform</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/smallcaseLogo.png" />
-          <p className="text-small text-muted">Thematic investment platform</p>
+          <img src="media/images/zerodhaFundhouse.png" className="partner-logo"/>
+          <p className="text-small text-muted">Asset Management</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/smallcaseLogo.png" />
-          <p className="text-small text-muted">Thematic investment platform</p>
+          <img src="media/images/goldenpiLogo.png" className="partner-logo"/>
+          <p className="text-small text-muted">Bonds trading platform</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/smallcaseLogo.png" />
-          <p className="text-small text-muted">Thematic investment platform</p>
+          <img src="media/images/dittoLogo.png" className="partner-logo"/>
+          <p className="text-small text-muted">Insurance</p>
         </div>
         <button
           className="p-2 btn btn-primary fs-5 mb-5"
