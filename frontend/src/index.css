@@ -31,3 +31,33 @@ code {
   height: auto;
   object-fit: contain;
 }
+
+
+/* Support section */
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportHero a{
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+
+#supportHero input{
+  padding: 20px 50px;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+}
+
+#supportHero a{
+  /* text-decoration: none; */
+  margin-right: 15px;
+}
