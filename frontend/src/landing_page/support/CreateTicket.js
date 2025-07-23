@@ -6,9 +6,9 @@ function CreateTicket() {
       <div className="row p-5 mt-5 mb-5">
         <h1 className="fs-2">To create a ticket, select a relevant topic</h1>
         <div className="col-4 p-5 mt-2 mb-2">
-          <h4 className="">
-            <i class="fa fa-plus-circle" aria-hidden="true"></i> Account Opening
-          </h4>
+          <h5 className="">
+            <i class="fa fa-plus-circle " aria-hidden="true"></i> Account Opening
+          </h5>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Online Account Opening
           </a>
@@ -43,9 +43,9 @@ function CreateTicket() {
           <br />
         </div>
         <div className="col-4 p-5 mt-2 mb-2">
-          <h4 className="">
-            <i class="fa fa-plus-circle" aria-hidden="true"></i> Your Stoxera Account
-          </h4>
+          <h5 className="">
+            <i class="fa fa-user" aria-hidden="true"></i> Your Stoxera Account
+          </h5>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Login Credential
           </a>
@@ -68,9 +68,9 @@ function CreateTicket() {
           <br />
         </div>
         <div className="col-4 p-5 mt-2 mb-2">
-          <h4 className="">
-            <i class="fa fa-plus-circle" aria-hidden="true"></i> Your Zerodha Account
-          </h4>
+          <h5 className="">
+            <i class="fa fa-bar-chart" aria-hidden="true"></i> Your Zerodha Account
+          </h5>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Margin/Leverage, Product and Order types
           </a>
@@ -109,9 +109,9 @@ function CreateTicket() {
           <br />
         </div>
         <div className="col-4 p-5 mt-2 mb-2">
-          <h4 className="">
-            <i class="fa fa-plus-circle" aria-hidden="true"></i> Funds
-          </h4>
+          <h5 className="">
+            <i class="fa fa-credit-card-alt" aria-hidden="true"></i> Funds
+          </h5>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Adding Funds
           </a>
@@ -130,9 +130,9 @@ function CreateTicket() {
           <br />
         </div>
         <div className="col-4 p-5 mt-2 mb-2">
-          <h4 className="">
-            <i class="fa fa-plus-circle" aria-hidden="true"></i> Console
-          </h4>
+          <h5 className="">
+            <i class="fa fa-terminal" aria-hidden="true"></i> Console
+          </h5>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Reports
           </a>
@@ -158,10 +158,10 @@ function CreateTicket() {
           </a>
           <br />
         </div>
-        <div className="col-4 p-5 mt-2 mb-2">
-          <h4 className="">
-            <i class="fa fa-plus-circle" aria-hidden="true"></i> Coin
-          </h4>
+        <div className="col-4 p-5 mt-2 mb-1">
+          <h5 className="">
+            <i class="fa fa-circle-o-notch" aria-hidden="true"></i> Coin
+          </h5>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Understanding Mutual Funds
           </a>
@@ -193,7 +193,6 @@ function CreateTicket() {
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Government Securities
           </a>
-          <br />
         </div>
       </div>
     </div>
